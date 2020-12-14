@@ -6,7 +6,7 @@ Prerestictics: Clone the repo and have Go installed
 Run following commands to built and execute coffee machine
 ```Shell
 go build
-./CoffeeMachineinput.json
+./CoffeeMachine input.json
 ```
 
 Run following commands to run test and for coverage
